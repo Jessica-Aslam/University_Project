@@ -1,4 +1,5 @@
 Welcome to my GitHub repository.
+
 This repository contains academic projects completed during Semester 2 and Semester 3 of my Computer Science degree, focusing on Object-Oriented Programming, Data Structures, Computer Organization, and Assembly Language.
 
 **Semester 2 – Object-Oriented Programming (C++)**
